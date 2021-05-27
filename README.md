@@ -30,20 +30,15 @@ The following API routes were created:
 * `POST /api/notes` recieves a new note to save on the request body and adds it to the `db.json` file, and then returns the new note to the client.
 
 
-
-
-
-
-
 ### Technical Criteria: 
 
 * Satisfies all of the preceding acceptance criteria plus the following:
 
-  * Application front end must connect to an Express.js back end.
+  * Application front end connects to an Express.js back end.
 
-  * Application back end must store notes with unique IDs in a JSON file.
+  * Application back end storenotes with unique IDs in a JSON file.
 
-  * Application must be deployed to Heroku.
+  * Application is deployed to Heroku.
 
 
 ### Deployment:
@@ -57,12 +52,12 @@ The following API routes were created:
 * GitHub repository contains application code.
 
 
-### Application Quality: 11%
+### Application Quality: 
 
 * Application console is free of errors.
 
 
-### Repository Quality: 13%
+### Repository Quality:
 
 * Repository has a unique name.
 
@@ -75,9 +70,6 @@ The following API routes were created:
 * Repository contains quality README file with description, screenshot, and link to deployed application.
 
 
-
-
-
-## Review
+## Heroku link
 
 [https://peaceful-stream-04613.herokuapp.com/]
