@@ -113,18 +113,9 @@ This homework is graded based on the following criteria:
 * Repository contains quality README file with description, screenshot, and link to deployed application.
 
 
-### Bonus: +10 Points
 
-* Application allows users to delete notes.
 
 
 ## Review
 
-You are required to submit BOTH of the following for review:
-
-* The URL of the functional, deployed application.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-
-- - -
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+[https://peaceful-stream-04613.herokuapp.com/]
